@@ -1,7 +1,7 @@
 # Втора лабораториска вежба по Софтверско инженерство
 ## Ангела Јованоска, бр. на индекс 226033
-## Control Flow graph 
-(https://github.com/angelajovanoska/SI_2024_lab2_226033/commit/a002a7a92a9ee68e8f44d5a0ec6f783799c52ff8)
+## Control Flow graph (CFG)
+![CFG](https://github.com/angelajovanoska/SI_2024_lab2_226033/commit/a002a7a92a9ee68e8f44d5a0ec6f783799c52ff8)
 ## Цикломатска комлексност
 Со користење на оваа формула V(G)=E-N+2P, цикломатската комплексност е 9.
 ##
