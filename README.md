@@ -4,4 +4,9 @@
 ![CFG](https://github.com/angelajovanoska/SI_2024_lab2_226033/commit/a002a7a92a9ee68e8f44d5a0ec6f783799c52ff8)
 ## Цикломатска комлексност
 Со користење на оваа формула V(G)=E-N+2P, цикломатската комплексност е 9.
-##
+## Every Branch тест случаи
+
+## Multiple Condition 
+
+## Објаснување за unit тестовите
+Во класата `SILab2Test` креирав две функции за unit тестирање. Едната функција ги проверува тест случаите според Every Branch критериумот, а другата според Multiple Condition критериумот.
